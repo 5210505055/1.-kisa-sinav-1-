@@ -45,7 +45,6 @@ int main()
         else
         {
             printf("Girilebilecek tek karakter 'G' veya '()' veya '(l)\n");
-            continue;
         }
     }
 
